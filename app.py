@@ -43,10 +43,11 @@
 # @st.cache_data
 # def load_data():
 #     try:
-#         facebook = pd.read_csv("C:/Users/Lenovo/Downloads/Marketing_Documentation/Data/Facebook.csv")
-#         google   = pd.read_csv("C:/Users/Lenovo/Downloads/Marketing_Documentation/Data/Google.csv")
-#         tiktok   = pd.read_csv("C:/Users/Lenovo/Downloads/Marketing_Documentation/Data/TikTok.csv")
-#         business = pd.read_csv("C:/Users/Lenovo/Downloads/Marketing_Documentation/Data/Business.csv")
+#       facebook = pd.read_csv("data/Facebook.csv")
+#         google   = pd.read_csv("data/Google.csv")
+#         tiktok   = pd.read_csv("data/TikTok.csv")
+#         business = pd.read_csv("data/Business.csv")
+        
         
 #         st.success(" All CSV files loaded successfully")
 #     except FileNotFoundError as e:
