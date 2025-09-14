@@ -52,7 +52,7 @@ def load_data():
         facebook = pd.read_csv("data/Facebook.csv")
         google   = pd.read_csv("data/Google.csv")
         tiktok   = pd.read_csv("data/TikTok.csv")
-        business = pd.read_csv("data/Business.csv")
+        business = pd.read_csv("data/business.csv")
         
         load_status = "All CSV files loaded successfully"
     except FileNotFoundError as e:
