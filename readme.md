@@ -27,8 +27,8 @@ A comprehensive **Streamlit dashboard** that connects marketing campaign perform
 
 ## Data Requirements
 
-* `Facebook.csv`, `Google.csv`, `TikTok.csv` — marketing campaign data
-* `Business.csv` — business performance data
+* Facebook.csv, Google.csv, TikTok.csv — marketing campaign data
+* Business.csv — business performance data
 
 ## Deployed App
 
@@ -36,17 +36,17 @@ A comprehensive **Streamlit dashboard** that connects marketing campaign perform
 
 ## Deployment on Streamlit Cloud
 
-To deploy this dashboard on **Streamlit Cloud**:
+To deploy this dashboard on *Streamlit Cloud*:
 
 1. Push this repository to GitHub.
 2. Go to [Streamlit Cloud](https://share.streamlit.io/).
-3. Click **New app** and connect your GitHub repo.
+3. Click *New app* and connect your GitHub repo.
 4. Select:
 
    * Repository: `your-username/your-repo-name`
    * Branch: `main`
    * File: `app.py`
-5. Click **Deploy**.
+5. Click *Deploy*.
 6. Upload your data files (`Facebook.csv`, `Google.csv`, `TikTok.csv`, `Business.csv`) into the `/data` folder in the repo, or configure external data sources.
 
 Your app will be live at:
@@ -55,7 +55,3 @@ Your app will be live at:
 https://share.streamlit.io/your-username/your-repo-name/main/app.py
 ```
 
-```
-
-
-```
