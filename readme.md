@@ -1,7 +1,7 @@
 ```markdown
 # Marketing Intelligence Dashboard
 
-A comprehensive *Streamlit dashboard* that connects marketing campaign performance with business outcomes.
+A comprehensive Streamlit dashboard that connects marketing campaign performance with business outcomes.
 
 ## Features
 - Executive KPIs and metrics
