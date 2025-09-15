@@ -32,6 +32,12 @@ streamlit run app.py
 
  [**Marketing Intelligence Dashboard**](https://marketing-dashboard-znw5mmaxd8edl4addxtfu3.streamlit.app/)
 
+ <img width="761" height="263" alt="mar1" src="https://github.com/user-attachments/assets/0b3b080f-acb3-4006-8bd7-effaf4ed14ec" />
+ <img width="827" height="323" alt="mar2" src="https://github.com/user-attachments/assets/f051bf74-f9b5-46f0-bb15-e54def9d021e" />
+ <img width="846" height="352" alt="mar3" src="https://github.com/user-attachments/assets/aa268b4f-0d91-46f0-b45e-a4eed3023af9" />
+ <img width="654" height="280" alt="mar4" src="https://github.com/user-attachments/assets/2123627c-a27a-44e5-a92c-42b17c100fad" />
+
+
 ## Deployment on Streamlit Cloud
 
 To deploy this dashboard on **Streamlit Cloud**:
