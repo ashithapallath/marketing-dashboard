@@ -1,7 +1,7 @@
 ```markdown
 # Marketing Intelligence Dashboard
 
-A comprehensive **Streamlit dashboard** that connects marketing campaign performance with business outcomes.
+A comprehensive *Streamlit dashboard* that connects marketing campaign performance with business outcomes.
 
 ## Features
 - Executive KPIs and metrics
@@ -56,4 +56,4 @@ Your app will be live at:
 ```
 https://share.streamlit.io/your-username/your-repo-name/main/app.py
 ```
-```
+
